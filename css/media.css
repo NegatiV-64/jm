@@ -1,0 +1,620 @@
+@media (max-width:1200px) {
+    .header__title {
+        font-size: 188px;
+    }
+
+    .work__title {
+        background: var(--white);
+        margin-right: -16px;
+    }
+
+    .work__subtitle {
+        margin-right: -12px;
+        margin-top: -1px;
+        padding-top: 15px;
+    }
+
+    .app__container img {
+        width: 530px;
+    }
+
+    .website__container img {
+        width: 530px;
+    }
+
+    .project__content {
+        right: 481px;
+    }
+
+    .project__title {
+        width: 450px;
+        font-size: 49px;
+    }
+
+    .project__link {
+        background: white;
+        padding-bottom: 15px;
+    }
+
+    .project__img {
+        width: 485px;
+        right: 5px;
+    }
+
+    .project__field {
+        height: 460px;
+    }
+
+    .blog__heading {
+        font-size: 23px;
+    }
+
+    .contact__content iframe {
+        width: 435px;
+    }
+
+    .form {
+        right: -65px;
+    }
+
+    .form__input {
+        width: 220px;
+        height: 40px;
+    }
+
+    .form__input_message {
+        width: 470px;
+    }
+}
+
+
+@media (max-width:992px) {
+    .header__title {
+        font-size: 140px;
+    }
+
+    .nav__link {
+        font-size: 16px;
+        margin: 0px 15px;
+    }
+
+    .nav__quote {
+        font-size: 16px;
+        padding: 10px 25px;
+    }
+
+    .work__title {
+        margin-right: -10px;
+        font-size: 55px;
+    }
+
+    .work__subtitle {
+        margin-right: -10px;
+    }
+
+    .app__container img {
+        width: 385px;
+    }
+
+    .h__header {
+        font-size: 50px;
+    }
+
+    .website__container img {
+        width: 365px;
+    }
+
+    .project__field {
+        width: 667px;
+    }
+
+    .project__text {
+        font-size: 14px;
+        width: 302px;
+    }
+
+    .project__content {
+        right: 340px;
+    }
+
+    .project__title {
+        width: 400px;
+        font-size: 35px;
+    }
+
+    .project__img {
+        width: 364px;
+    }
+
+    .project__container {
+        padding-bottom: 50px;
+    }
+
+    .blog__container {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .blog__text {
+        font-size: 13px;
+    }
+
+    .blog__heading {
+        font-size: 17px;
+    }
+
+    .blog__link {
+        font-size: 15px;
+    }
+
+    .blog__loaddiv {
+        margin-top: 50px;
+    }
+
+    .blog__load {
+        font-size: 15px;
+    }
+
+    .contact__container {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .contact__content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: auto;
+        padding-top: 40px;
+    }
+
+    .contact__content iframe {
+        position: static;
+        width: 500px;
+    }
+
+    .form {
+        position: static;
+        padding: 50px 0px;
+    }
+
+    .footer__logo {
+        margin-right: 100px;
+    }
+
+}
+
+@media (max-width:768px) {
+    .header__title {
+        font-size: 105px;
+    }
+
+    .nav__container {
+        padding-top: 15px;
+    }
+
+    .nav__link {
+        font-size: 14px;
+        margin: 0px 8px;
+    }
+
+    .nav__quote {
+        font-size: 13px;
+    }
+
+    .header__content {
+        margin-bottom: 50px;
+        padding-bottom: 0px;
+    }
+
+    .work__field img {
+        position: absolute;
+        width: 260px;
+        left: -40px;
+    }
+
+    .work__content {
+        padding-top: 20px;
+    }
+
+    .work__title {
+        font-size: 34px;
+    }
+
+    .work__field img {
+        width: 295px;
+        left: -70px;
+        top: 10px;
+    }
+
+    .work__container {
+        margin-top: 25px;
+    }
+
+    .app__content {
+        margin-left: 15px;
+    }
+
+    .app__container img {
+        width: 260px;
+    }
+
+    .h__header {
+        font-size: 35px;
+    }
+
+    .p__text {
+        font-size: 14px;
+    }
+
+    .a__link {
+        margin-top: 20px;
+        display: inline-block;
+        text-decoration: underline;
+        font-size: 15px;
+        color: var(--blue);
+    }
+
+    .website__container img {
+        width: 225px;
+    }
+
+    .website__content {
+        margin-left: 35px;
+    }
+
+    .project__container {
+        align-items: normal;
+        padding-top: 50px;
+    }
+
+    .project__heading {
+        font-size: 55px;
+    }
+
+    .project__field {
+        margin-top: 35px;
+        display: flex;
+        height: auto;
+        width: auto;
+        flex-direction: column-reverse;
+    }
+
+    .project__content {
+        margin-top: 0;
+        margin-bottom: 15px;
+        position: static;
+        right: 640px;
+        text-align: center;
+    }
+
+    .project__title {
+        width: auto;
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+
+    .project__text {
+        width: auto;
+        padding-left: 100px;
+        padding-right: 100px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    .project__link {
+        font-size: 15px;
+    }
+
+    .project__img {
+        margin: 25px 0;
+        position: static;
+    }
+
+    .project__list {
+        margin-top: 25px;
+    }
+
+    .project__container {
+        padding-top: 35px;
+        padding-bottom: 25px;
+    }
+
+    .blog__container {
+        margin-top: 0px;
+        margin-bottom: 25px;
+    }
+
+    .blog__title {
+        font-weight: 800;
+        font-size: 55px;
+        color: var(--font-light-black);
+        text-align: center;
+        margin-bottom: 35px;
+    }
+
+    .blog__heading {
+        font-size: 19px;
+    }
+
+    .blog__text {
+        text-align: justify;
+        font-size: 14px;
+    }
+
+    .blog__loaddiv {
+        margin-top: 25px;
+    }
+
+    .blog__load {
+        padding: 10px 25px;
+    }
+
+    .contact__container {
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+
+    .contact__title {
+        font-size: 55px;
+    }
+
+    .contact__content {
+        margin-top: 35px;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .form {
+        position: static;
+        padding-top: 40px;
+        padding-bottom: 25px;
+    }
+
+    .footer__container {
+        margin-top: 30px;
+        margin-bottom: 15px;
+    }
+
+    .footer__info {
+        font-size: 14px;
+    }
+
+    .footer__logo {
+        margin-right: 70px;
+        font-size: 35px;
+    }
+
+    .footer__arrow {
+        margin-right: 15px;
+    }
+
+}
+
+@media (max-width:576px) {
+
+    .header {
+        justify-content: normal;
+    }
+
+    .nav__container {
+        padding-top: 15px;
+        flex-direction: column;
+    }
+
+    .nav__logo {
+        margin-bottom: 15px;
+    }
+
+    .nav__list {
+        margin-bottom: 15px;
+    }
+
+    .header__content {
+        margin-bottom: 45px;
+        margin-top: 25px;
+    }
+
+    .header__text {
+        font-weight: 800;
+        font-size: 15px;
+        color: var(--font-grey);
+    }
+
+    .header__title {
+        font-size: 55px;
+    }
+
+    .header__arrow {
+        margin-top: 50px;
+    }
+
+    .work__content {
+        align-items: center;
+    }
+
+    .work__field {
+        display: flex;
+        margin-left: 0;
+        padding-top: 25px;
+    }
+
+    .work__title {
+        font-size: 35px;
+        padding-left: 0px;
+        margin-right: 0;
+        text-align: center;
+    }
+
+    .work__subtitle {
+        margin-right: 0;
+        text-align: center;
+        margin-top: 0;
+        padding-left: 30px;
+        padding-right: 30px;
+        font-size: 17px;
+    }
+
+    .work__text {
+        font-size: 20px;
+        padding-top: 5px;
+        padding-right: 0;
+        margin-bottom: 10px;
+    }
+
+    .work__field img {
+        position: static;
+        margin: 0 auto;
+        width: 230px;
+    }
+
+    .app__container {
+        margin-top: 30px;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .app__content {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        margin: 0;
+    }
+
+    .h__header {
+        font-size: 30px;
+    }
+
+    .p__text {
+        width: auto;
+        margin-top: 10px;
+    }
+
+    .app__container img {
+        width: 260px;
+        margin-top: 25px;
+        align-self: flex-end;
+    }
+
+    .website__container {
+        padding-top: 25px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .website__container img {
+        width: 225px;
+        align-self: flex-start;
+    }
+
+    .website__content {
+        padding-top: 25px;
+        margin: 0;
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+        text-align: center;
+    }
+
+    .project__heading {
+        font-size: 40px;
+    }
+
+    .project__field {
+        margin-top: 15px;
+    }
+
+    .project__img {
+        width: 240px;
+    }
+
+    .project__title {
+        width: auto;
+        padding-left: 0;
+        font-size: 30px;
+        padding-right: 0;
+    }
+
+    .project__text {
+        width: auto;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        font-size: 13px;
+    }
+
+    .blog__title {
+        font-size: 40px;
+    }
+
+    .col-4 {
+        width: var(--col-12);
+        padding: 0 15px;
+    }
+
+    .blog__heading {
+        margin-bottom: 15px;
+    }
+
+    .blog__text {
+        margin-bottom: 20px;
+    }
+
+    .blog__link {
+        margin-bottom: 20px;
+        display: inline-block;
+    }
+
+    .blog__loaddiv {
+        margin-top: 5px;
+    }
+
+    .contact__container {
+        padding-top: 0px;
+        padding-bottom: 25px;
+    }
+
+    .contact__title {
+        font-size: 40px;
+    }
+
+    .contact__content iframe {
+        width: 235px;
+        height: 235px;
+    }
+
+    .form__line {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-bottom: 20px;
+    }
+
+    #name {
+        margin-right: 0;
+        font-size: 15px;
+    }
+
+    #email {
+        margin-left: 0;
+        margin-top: 20px;
+    font-size: 15px;
+    }
+
+    .form__input_message {
+        width: 220px;
+        font-size: 15px;
+    }
+
+    .form__button {
+        padding: 10px 40px;
+        font-size: 15px;
+    }
+
+    .footer__info {
+        font-size: 13px;
+    }
+}
